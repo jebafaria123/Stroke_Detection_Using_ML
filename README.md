@@ -30,3 +30,6 @@ The models are rigorously evaluated using metrics like:
 - **Precision, Recall, and F1-Score**
 
 Models are compared based on performance metrics before and after optimization to ensure the improvements are significant and impactful.
+
+![image](https://github.com/user-attachments/assets/e238562d-60a8-4bb4-ab3d-a32806da997d)
+
